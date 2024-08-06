@@ -3,7 +3,7 @@ const config = {
   users: {
     // You can add multiple users by doing username: 'password'.
     Braxton: "Mull0044!!"
-    Guest: "Guest",
+    Guest: "guest",
   },
 };
 export default config;
